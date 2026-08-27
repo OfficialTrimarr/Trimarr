@@ -1,4 +1,6 @@
 # Trimarr
+<img width="2042" height="447" alt="trimarr-logo-B47sN06T" src="https://github.com/user-attachments/assets/ee9acb11-0e04-44d5-9196-384203b4dab5" />
+
 
 **Automated media processing and transcoding for Radarr and Sonarr.**
 
